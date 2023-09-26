@@ -1,0 +1,20 @@
+.textF{
+    text-align: center;
+    /* font-size: 2vw; */
+}
+
+.btn
+{
+    padding: 5px 10px;
+    background-color: brown;
+    color: aliceblue;
+    border: 2px solid rgb(239, 143, 143);
+    border-radius: 5px;
+    cursor:pointer;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+.card1
+{
+    margin: 26px 0;
+}

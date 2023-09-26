@@ -1,0 +1,49 @@
+@media only screen and (max-width:1000px) {
+    body {
+        background-color: rgb(207, 236, 227);
+    }
+    header
+    {
+        height: 120px;
+    }
+    nav {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    ul {
+        justify-content: center;
+        height: 1px;
+    }
+
+    h1 {
+        color: rgb(199, 233, 241);
+        justify-content: center;
+        align-content: center;
+        align-items: center;
+        margin: 12px auto;
+    }
+
+    .slider {
+        width: 50vw;
+        height: 50vh;
+        margin: 43px auto;
+    }
+
+    .search {
+        justify-content: center;
+    }
+
+    .search input {
+        margin: 12px 16px;
+    }
+    .card-item
+    {
+        width: 140px;
+        padding: 0 auto;
+        margin: 0 auto;
+       
+    }
+    
+
+}
